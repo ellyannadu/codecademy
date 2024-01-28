@@ -1,0 +1,44 @@
+h1 {
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    background: url('https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg?_gl=1*1grz88e*_ga*NzA0NzE4MzU5OC4xNzA2NDA2NDI0*_ga_3LRZM6TM9L*MTcwNjQwNjQ5OC4xLjEuMTcwNjQwODI1Mi41Ni4wLjA.');
+    background-size: cover;
+}
+
+h4 { /* okay so this makes all h4 tags have the same style wowowow  */
+    font-family: helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+h5 {
+    margin: 18.72 px;
+    font-family: Helvetica;
+    font-size: 18.72px;
+    font-weight: bold;
+}
+
+p {
+    font-family: helvetica;
+}
+
+p span {
+    font-weight: bold;
+    color: blue;
+}
+
+.brushes h4 {
+    background-color: mediumspringgreen;
+}
+
+.frames h4 {
+    background-color: lightcoral;
+}
+
+.paint h4 {
+    background-color: skyblue;
+}
